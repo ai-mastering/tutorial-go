@@ -3,11 +3,11 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:1c8c9eca40ae2e756a6783f42d0dc8d7d148e7de5090c5de3fcd6e1086974fd2"
+  digest = "1:3543736dd98af482df8e5098143f980a9dc4ebd686a25586a136dbeca0c5e575"
   name = "github.com/ai-mastering/aimastering-go"
   packages = ["."]
   pruneopts = "UT"
-  revision = "74efd6d639785dc1e4ddf59ea821cdfcaa2e003a"
+  revision = "f22c0e639ceb5f94a23fe385adde1eb7ce843669"
 
 [[projects]]
   digest = "1:318f1c959a8a740366fce4b1e1eb2fd914036b4af58fbd0a003349b305f118ad"
